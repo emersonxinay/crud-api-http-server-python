@@ -1,6 +1,6 @@
 # Apis con http-server de Python 
 
-## CRUD básico para usar localemente API de productos
+## CRUD básico para usar localmente API de productos
 ### Los endpoints - rutas para que puebas una vez corras el programa.
 ```bash
 python3 crud-api-http-server.py
@@ -26,4 +26,5 @@ http://127.0.0.1:8000/products/{id}
 ```link
 http://127.0.0.1:8000/products/{id}
 ```
-
+## img del API
+<img src="json-productos.png">
